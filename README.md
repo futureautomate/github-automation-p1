@@ -6,7 +6,9 @@ Welcome to Git Hub Automation Part 1. Git Hub is the most used repo by people fo
 1) The first part is about how to automate the login part of git hub
 2) The second will be creating repo and uploading data.
 
-If you haven't checked the intro video - 
+If you haven't checked the intro video - https://youtu.be/-hP6W6AaAgk
+
+Read the documentation od selenium for more details and try chaging code for more functionalities.
 
 Selenium is very useful for web automation and testing. Selenium has a lot of functionalities which helps in automating a lot of work we do on the web.
 
